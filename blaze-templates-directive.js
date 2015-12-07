@@ -1,4 +1,4 @@
-angular.module('comments.ui').directive('blazeTemplate', function() {
+angular.module('blazeTemplates').directive('blazeTemplate', function() {
   return {
     restrict: 'EA',
     scope: true,
