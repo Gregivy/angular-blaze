@@ -1,5 +1,5 @@
 Package.describe({
-  name: "angular-blaze",
+  name: "gregivy:angular-blaze",
   summary: "AngularJS wrapper for Meteor's Blaze packages",
   version: "0.0.1",
   documentation: 'README.md',
